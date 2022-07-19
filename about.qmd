@@ -24,16 +24,19 @@ about:
     
 ---
 
-This website was created by Javed Ali, a Graduate Research Assistant at the University of Central Florida. The methodology for this research was developed in collaboration with [Dr. Thomas Wahl](https://core-lab.weebly.com/) (Supervisor), [Dr. Alejandra Enriquez](https://www.linkedin.com/in/alejandra-rodr%C3%ADguez-enr%C3%ADquez-426b3263/) (Co-Supervisor), and [Dr. Md. Mamunur Rashid](https://mmrashid.weebly.com/) (Co-Supervisor), and implemented in Miami-Dade County, Florida, USA. Javed has been involved in a National Academy of Sciences funded project “[The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure](https://hazardaware.org/)”. This website is a part of the project's deliverable.
+This website was created by Javed Ali, a Graduate Research Assistant at the University of Central Florida. The methodology for this research was developed in collaboration with [Dr. Thomas Wahl](https://core-lab.weebly.com/), [Dr. Alejandra Enriquez](https://www.linkedin.com/in/alejandra-rodr%C3%ADguez-enr%C3%ADquez-426b3263/), and [Dr. Md. Mamunur Rashid](https://mmrashid.weebly.com/), and implemented in Miami-Dade County, Florida, USA. Javed has been involved in a National Academy of Sciences funded project “[The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure](https://hazardaware.org/)”. This website is a part of the project's deliverable.
 
 Javed is a Water Resources Engineer and Graduate Research Assistant in the [Coastal Risks and Engineering Lab](https://core-lab.weebly.com/) at University of Central Florida (UCF). His work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatio-temporal interactions and socio-economic impacts using machine learning and statistical methods. 
 
+
+::: {.content-block}
+
 ## References
 
-1. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2021). Estimating Impact Relevant Thresholds of Multi-hazards in the US Southeast Coast. American Geophysical Union Fall Meeting 2021, New Orleans, LA. https://doi.org/10.1002/essoar.10508922.1
+1. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2021). Estimating Impact Relevant Thresholds of Multi-hazards in the US Southeast Coast. American Geophysical Union Fall Meeting 2021, New Orleans, LA. [https://doi.org/10.1002/essoar.10508922.1](https://doi.org/10.1002/essoar.10508922.1)
 
 2. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). A Novel Approach for Assessing Compounding Effects of Weather and Climate Extremes. UCF Graduate Research Forum 2022, Orlando, FL.
 
 3. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). Assessing Compound Impacts of Natural Hazards in Miami-Dade County, Florida. 5th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN), Orlando, FL, USA.
 
-
+:::

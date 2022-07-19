@@ -22,10 +22,6 @@ image: /images/hero_right.png
 
 ### A novel impact-based methodology for assessing compound impacts of hydrometeorological drivers associated with natural hazards 
 
-<!-- - Create dynamic content with [Python](docs/computations/python.qmd), [R](docs/computations/r.qmd), [Julia](docs/computations/julia.qmd), and [Observable](docs/computations/ojs.qmd). 
-- Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.
-- Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
-- Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more. -->
 
 ::: {.hero-buttons}
 [Data](data-processing.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
@@ -104,6 +100,7 @@ We analyzed all data to better understand what drivers are involved in each haza
 
 :::
 :::
+
 
 
 ::: {.get-started .alt-background}

@@ -28,8 +28,8 @@ website:
         file: visualization.qmd
       - text: "About"
         file: about.qmd
-      # - text: "Team"
-      #   file: team.qmd
+      # - text: "References"
+      #   file: reference.qmd
 
     right:
       - icon: twitter

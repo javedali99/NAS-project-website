@@ -1,0 +1,63 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Analysis of Compound Extreme Events"
+  repo-url: https://github.com/javedali99/NAS_deliverable_website
+  repo-actions: [edit, issue]
+  page-footer: 
+    left: "Copyright 2022, Javed Ali." 
+    right: 
+      - icon: github
+        href: https://github.com/javedali99/
+      - icon: twitter 
+        href: https://twitter.com/javedali99/ 
+  navbar:
+    background: primary
+    search: false
+    left:
+      - text: "Home"
+        file: ovd
+      - text: "Analysis"
+        file: tutorials.qmd
+      - text: "About"
+        file: about.qmd
+      # - text: "References"
+      #   file: reference.qmd
+
+  sidebar:
+    - title: "Tutorials"
+      style: "docked"
+      background: light
+      contents:
+        - tutorials.qmd
+        - tutorial-1.qmd
+        - tutorial-2.qmd
+
+    - title: "Data Processing"
+      contents:
+        - data-processing.qmd
+        # navigation items
+
+    - title: "Fundamentals"
+      contents:
+        - fundamentals.qmd
+        # navigation items
+
+    - title: "Reference"
+      contents:
+        - reference.qmd
+        # navigation items
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+     
+    

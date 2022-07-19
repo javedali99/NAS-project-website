@@ -1,0 +1,118 @@
+---
+pagetitle: "Quarto"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+editor: source
+description: | 
+  Quarto® is an open-source scientific and technical publishing system built on Pandoc.
+image: /images/hero_right.png
+---
+
+::: {.hero-banner}
+
+::: {.hero-image .hero-image-left}
+![](images/hero_left.png){fig-alt="Stack of three printed articles with text, code, and graphics."}
+:::
+
+::: {.content-block}
+
+# Analysis of Compound Extreme Events
+
+### A novel impact-based methodology for assessing compound impacts of hydrometeorological drivers associated with natural hazards 
+
+<!-- - Create dynamic content with [Python](docs/computations/python.qmd), [R](docs/computations/r.qmd), [Julia](docs/computations/julia.qmd), and [Observable](docs/computations/ojs.qmd). 
+- Author documents as plain text markdown or [Jupyter](https://jupyter.org/) notebooks.
+- Publish high-quality articles, reports, presentations, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.
+- Author with scientific markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more. -->
+
+::: {.hero-buttons}
+[Get Started](docs/get-started/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Guide](docs/guide/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+::: 
+
+:::
+
+::: {.hero-image .hero-image-right}
+![](images/hero_right.png){fig-alt="Stack of three printed articles with text, code, and graphics."}
+:::
+
+:::
+
+
+
+
+
+
+::: {.content-block}
+::: {.features}
+
+::: {.feature}
+### Data Collection
+Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+
+::: {.learn-more}
+[Learn more »](docs/computations/python.qmd)
+:::
+:::
+
+::: {.feature}
+### Data Processing
+Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
+
+::: {.learn-more}
+[Learn more »](docs/output-formats/all-formats.qmd)
+:::
+:::
+
+::: {.feature}
+### Methodology 
+Pandoc markdown has excellent support for LaTeX equations and citations. Quarto adds extensions for cross-references, figure panels, callouts, advanced page layout, and more.
+
+::: {.learn-more}
+[Learn more »](docs/authoring/markdown-basics.qmd)
+:::
+:::
+
+::: {.feature}
+### Data Analysis
+Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text editor. Use the Quarto visual markdown editor for long-form documents.
+
+::: {.learn-more}
+[Learn more »](docs/tools/jupyter-lab.qmd)
+:::
+:::
+
+::: {.feature}
+### Data Visualization
+Engage readers by adding interactive data exploration to your documents using Jupyter Widgets, htmlwidgets for R, Observable JS, and Shiny.
+
+::: {.learn-more}
+[Learn more »](docs/interactive/)
+:::
+:::
+
+::: {.feature}
+### Analysis of Compound Impact
+Publish collections of documents as a blog or full website. Create books and manuscripts in both print formats (PDF and MS Word) and online formats (HTML and ePub).
+
+::: {.learn-more}
+[Learn more »](docs/websites/)
+:::
+:::
+
+:::
+:::
+
+
+::: {.get-started .alt-background}
+::: {.content-block}
+
+### ACKNOWLDEGEMENT ​
+
+This research is funded by the National Academies of Science Gulf Research Program’s Thriving Communities  Grant, “The New First Line of Defense: Building  Community Resilience through Residential Risk Disclosure”, grant number 200010880.
+
+:::
+:::
+

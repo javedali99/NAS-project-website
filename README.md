@@ -1,10 +1,6 @@
 
 <h1 style="font-weight:normal" align="center">
-NAS Project Website 
-
-on
-
-Analysis of Compound Extreme Events and Thier Impacts 
+Analysis of Compound Extreme Events and Their Impacts 
 </h1>
 
 <div align="center">

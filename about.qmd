@@ -12,6 +12,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/javedali99
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/javedali18/
+    - icon: email
+      text: Email
+      href: mailto:javedali@knights.ucf.edu 
+    - icon: website
+      text: Website
+      href: https://javedali.net 
 ---
 
 Javed is a Water Resources Engineer and Graduate Research Assistant in the Coastal Risks and Engineering Lab at University of Central Florida (UCF). His work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatio-temporal interactions and socio-economic impacts using machine learning and statistical methods. 

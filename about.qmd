@@ -28,15 +28,12 @@ This website was created by Javed Ali, a Graduate Research Assistant at the Univ
 
 Javed is a Water Resources Engineer and Graduate Research Assistant in the [Coastal Risks and Engineering Lab](https://core-lab.weebly.com/) at University of Central Florida (UCF). His work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatio-temporal interactions and socio-economic impacts using machine learning and statistical methods. 
 
-## Education
+## References
 
-University of Central Florida | Orlando, FL, USA  
-PhD in Civil Engineering | Aug 2020 - Present
+1. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2021). Estimating Impact Relevant Thresholds of Multi-hazards in the US Southeast Coast. American Geophysical Union Fall Meeting 2021, New Orleans, LA. https://doi.org/10.1002/essoar.10508922.1
 
-UNESCO-IHE Institute for Water Education | Delft, the Netherlands 
-MS in Water Science and Engineering | Sep 2016 - Sep 2018
+2. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). A Novel Approach for Assessing Compounding Effects of Weather and Climate Extremes. UCF Graduate Research Forum 2022, Orlando, FL.
 
-G.B. Pant University of Agriculture & Technology | Pantnagar, India 
-BS in Agricultural Engineering | Aug 2011 - June 2015
+3. Ali, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). Assessing Compound Impacts of Natural Hazards in Miami-Dade County, Florida. 5th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN), Orlando, FL, USA.
 
 

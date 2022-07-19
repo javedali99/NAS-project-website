@@ -82,7 +82,7 @@ We analyzed the data to determine the impact and role of hydrometeorological dri
 
 ::: {.feature}
 ### Data Visualization
-We created a visualization based on our results to understand the contributions of hydrometeorological drivers to socioeconomic impacts of compound extreme events.
+We created visualizations based on our results to understand the contributions of hydrometeorological drivers to socioeconomic impacts of compound extreme events.
 
 ::: {.learn-more}
 [Learn more »](visualization.qmd)

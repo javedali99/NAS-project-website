@@ -5,7 +5,7 @@ website:
   page-navigation: true
   title: "Analysis of Compound Extreme Events"
   twitter-card: true
-  repo-url: https://github.com/javedali99/website-nas-project
+  repo-url: https://github.com/javedali99/NAS-project-website
   repo-actions: [edit, issue]
   page-footer: 
     center: "&copy; Copyright 2022, Javed Ali. All rights reserved" 

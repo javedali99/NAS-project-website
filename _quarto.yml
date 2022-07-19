@@ -4,7 +4,8 @@ project:
 website:
   page-navigation: true
   title: "Analysis of Compound Extreme Events"
-  twitter-card: true
+  twitter-card:
+    image: "/images/henkdeboer_nl.png"
   repo-url: https://github.com/javedali99/NAS-project-website
   repo-actions: [edit, issue]
   page-footer: 

@@ -1,6 +1,8 @@
 ---
 pagetitle: "Home"
 page-layout: custom
+twitter-card:
+    image: "/images/henkdeboer_nl.png"
 section-divs: false
 toc: false
 css: index.css

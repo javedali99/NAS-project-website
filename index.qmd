@@ -44,7 +44,7 @@ image: /images/henkdeboer_nl.png
 ::: {.alt-background}
 ::: {.content-block}
 
-This research work has been done by [Javed Ali](https://www.javedali.net/) in collaboration with [Dr. Thomas Wahl](https://core-lab.weebly.com/), [Dr. Alejandra Enriquez](https://www.linkedin.com/in/alejandra-rodr%C3%ADguez-enr%C3%ADquez-426b3263/), and [Dr. Md. Mamunur Rashid](https://mmrashid.weebly.com/) at the University of Central Florida, under the National Academy of Sciences funded project “[The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure](https://hazardaware.org/)”.
+This research work has been done by [Javed Ali](about.qmd) in collaboration with [Dr. Thomas Wahl](https://core-lab.weebly.com/), [Dr. Alejandra Enriquez](https://www.linkedin.com/in/alejandra-rodr%C3%ADguez-enr%C3%ADquez-426b3263/), and [Dr. Md. Mamunur Rashid](https://mmrashid.weebly.com/) at the University of Central Florida, under the National Academy of Sciences funded project “[The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure](https://hazardaware.org/)”.
 
 ---
 

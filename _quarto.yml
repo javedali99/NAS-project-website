@@ -19,15 +19,15 @@ website:
     search: false
     left:
       - text: "Home"
-        file: index.qmd
-      - text: "Data Collection & Processing"
-        file: data-processing.qmd
+        href: index.qmd
+      - text: "Data Processing"
+        href: docs/data/index.qmd
       - text: "Analysis"
-        file: analysis.qmd
-      - text: "Visualization"
-        file: visualization.qmd
+        href: docs/analysis/index.qmd
+      - text: "Results"
+        href: docs/results/index.qmd
       - text: "About"
-        file: about.qmd
+        href: about.qmd
       # - text: "References"
       #   file: reference.qmd
 
@@ -40,22 +40,48 @@ website:
         aria-label: GitHub
 
   sidebar:
-    - title: "Analysis"
-      style: "docked"
-      background: light
+    - id: analysis
+      title: "Analysis"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      # background: light
       contents:
-        - analysis.qmd
-        - tutorial-1.qmd
-        - tutorial-2.qmd
+        - docs/analysis/index.qmd
+        - text: "Dates of Events"
+          href: docs/analysis/sheldus-events-dates.qmd
+        - text: "Individual Time Series"
+          href: docs/analysis/raw-ts-creation.qmd
+        - text: "Percentile Calculation"
+          href: docs/analysis/percentiles.qmd
+        - text: "Percentiles with SHELDUS Dates"
+          href: docs/analysis/sheldus-percentiles.qmd
 
-    - title: "Data Processing"
+
+    - id: data
+      title: "Data Processing"
+      style: "floating"
+      collapse-level: 3
+      align: left
       contents:
-        - data-processing.qmd
+        - docs/data/index.qmd
+        - text: "Data collection"
+          href: docs/data/download-data.qmd
+        - text: "Data processing"
+          href: docs/data/processing-data.qmd
         # navigation items
 
-    - title: "Visualization"
+    - id: data-viz
+      title: "Results"
+      style: "floating"
+      collapse-level: 3
+      align: left
       contents:
-        - visualization.qmd
+        - docs/results/index.qmd
+        - text: "Heatmaps"
+          href: docs/results/heatmaps.qmd
+        - text: "Mapping"
+          href: docs/results/mapping.qmd
         # navigation items
 
     - title: "Reference"

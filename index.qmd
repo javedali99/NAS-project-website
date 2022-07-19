@@ -24,8 +24,9 @@ image: /images/hero_right.png
 
 
 ::: {.hero-buttons}
-[Data](data-processing.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-[Analysis](analysis.qmd){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+[Data](docs/data/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Analysis](docs/analysis/index.qmd){#btn-action-primary .btn-action .btn .btn-info .btn-lg role="button"}
+[Results](docs/results/index.qmd){#btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 ::: 
 
 :::
@@ -85,7 +86,7 @@ We analyzed the data to determine the impact and role of hydrometeorological dri
 We created visualizations based on our results to understand the contributions of hydrometeorological drivers to socioeconomic impacts of compound extreme events.
 
 ::: {.learn-more}
-[Learn more »](visualization.qmd)
+[Learn more »](docs/results/index.qmd)
 :::
 :::
 
@@ -94,7 +95,7 @@ We created visualizations based on our results to understand the contributions o
 We analyzed all data to better understand what drivers are involved in each hazard recorded in SHELDUS, as well as knowing how often the impacts result from a compound event.
 
 ::: {.learn-more}
-[Learn more »](visualization.qmd)
+[Learn more »](docs/results/index.qmd)
 :::
 :::
 

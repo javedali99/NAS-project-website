@@ -14,18 +14,16 @@ about:
       href: https://github.com/javedali99
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
+Javed is a Water Resources Engineer and Graduate Research Assistant in the Coastal Risks and Engineering Lab at University of Central Florida (UCF). His work involves multi-hazards risk assessment and analyzing compound climate/weather extreme events and their spatio-temporal interactions and socio-economic impacts using machine learning and statistical methods. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sep 2011 - June 2015
+University of Central Florida | Orlando, FL
+PhD in Civil Engineering | Aug 2020 - Present
 
-Macalester College | St. Paul MA
-B.A in Economics | Sep 2007 - June 2011
+UNESCO-IHE Institute for Water Education | Delft, the Netherlands
+MS in Water Science and Engineering | Sep 2016 - Sep 2018
 
-## Experience
+G.B. Pant University of Agriculture & Technology | Pantnagar, India
+BS in Agricultural Engineering | Aug 2011 - June 2015
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018

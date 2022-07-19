@@ -2,7 +2,7 @@
 title: "About"
 about:
   template: solana
-  image: https://www.javedali.net/author/avatar_hufffe226e957f1b2290d587dc7c95d8a4_871284_270x270_fill_lanczos_center_2.PNG
+  image: images/Headshot.png
 #   image-width: 10em
 #   image-shape: round
   links:

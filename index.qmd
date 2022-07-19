@@ -7,7 +7,7 @@ css: index.css
 editor: source
 description: | 
   Analysis of Compound Extreme Events and Their Hydrometeorological Drivers.
-image: /images/henkdeboer_nl.jpg
+image: /images/henkdeboer_nl.png
 ---
 
 ::: {.hero-banner}
@@ -50,7 +50,7 @@ image: /images/henkdeboer_nl.jpg
 We collected data for socioeconomic impacts of natural hazards in the US and their hydrometeorological drivers.
 
 ::: {.learn-more}
-[Learn more »](data-processing.qmd)
+[Learn more »](docs/data/index.qmd)
 :::
 :::
 
@@ -59,7 +59,7 @@ We collected data for socioeconomic impacts of natural hazards in the US and the
 We processed the data to create a database of natural hazards and their associated hydrometeorological drivers and their socioeconomic impacts.
 
 ::: {.learn-more}
-[Learn more »](data-processing.qmd)
+[Learn more »](docs/data/index.qmd)
 :::
 :::
 
@@ -68,7 +68,7 @@ We processed the data to create a database of natural hazards and their associat
 We developed a novel methodology for assessing compound impacts of hydrometeorological drivers associated with natural hazards.
 
 ::: {.learn-more}
-[Learn more »](analysis.qmd)
+[Learn more »](docs/analysis/index.qmd)
 :::
 :::
 
@@ -77,7 +77,7 @@ We developed a novel methodology for assessing compound impacts of hydrometeorol
 We analyzed the data to determine the impact and role of hydrometeorological drivers on socioeconomic impacts of natural hazards. 
 
 ::: {.learn-more}
-[Learn more »](analysis.qmd)
+[Learn more »](docs/analysis/index.qmd)
 :::
 :::
 

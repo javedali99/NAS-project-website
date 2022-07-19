@@ -7,7 +7,7 @@ css: index.css
 editor: source
 description: | 
   Analysis of Compound Extreme Events and Their Hydrometeorological Drivers.
-image: /images/hero_right.png
+image: /images/henkdeboer_nl.jpg
 ---
 
 ::: {.hero-banner}

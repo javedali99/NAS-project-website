@@ -1,7 +1,7 @@
-# NAS Project Website: Analysis of Compound Extreme Events and Thier Impacts
+
 
 <h1 style="font-weight:normal" align="center">
-   Hi, I'm Javy! :wave: 
+:globe: NAS Project Website: Analysis of Compound Extreme Events and Thier Impacts 
 </h1>
 
 <div align="center">

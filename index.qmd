@@ -50,55 +50,55 @@ image: /images/hero_right.png
 
 ::: {.feature}
 ### Data Collection
-Generate dynamic output using Python, R, Julia, and Observable. Create reproducible documents that can be regenerated when underlying assumptions or data change.
+We collected data for socioeconomic impacts of natural hazards in the US and their hydrometeorological drivers.
 
 ::: {.learn-more}
-[Learn more »](docs/computations/python.qmd)
+[Learn more »](data-processing.qmd)
 :::
 :::
 
 ::: {.feature}
 ### Data Processing
-Publish high-quality articles, reports, presentations, websites, and books in HTML, PDF, MS Word, ePub, and more. Use a single source document to target multiple formats.
+We processed the data to create a database of natural hazards and their associated hydrometeorological drivers and their socioeconomic impacts.
 
 ::: {.learn-more}
-[Learn more »](docs/output-formats/all-formats.qmd)
+[Learn more »](data-processing.qmd)
 :::
 :::
 
 ::: {.feature}
 ### Methodology 
-Pandoc markdown has excellent support for LaTeX equations and citations. Quarto adds extensions for cross-references, figure panels, callouts, advanced page layout, and more.
+We developed a novel methodology for assessing compound impacts of hydrometeorological drivers associated with natural hazards.
 
 ::: {.learn-more}
-[Learn more »](docs/authoring/markdown-basics.qmd)
+[Learn more »](analysis.qmd)
 :::
 :::
 
 ::: {.feature}
 ### Data Analysis
-Use your favorite tools including VS Code, RStudio, Jupyter Lab, or any text editor. Use the Quarto visual markdown editor for long-form documents.
+We analyzed the data to determine the impact and role of hydrometeorological drivers on socioeconomic impacts of natural hazards. 
 
 ::: {.learn-more}
-[Learn more »](docs/tools/jupyter-lab.qmd)
+[Learn more »](analysis.qmd)
 :::
 :::
 
 ::: {.feature}
 ### Data Visualization
-Engage readers by adding interactive data exploration to your documents using Jupyter Widgets, htmlwidgets for R, Observable JS, and Shiny.
+We created a visualization based on our results to understand the contributions of hydrometeorological drivers to socioeconomic impacts of compound extreme events.
 
 ::: {.learn-more}
-[Learn more »](docs/interactive/)
+[Learn more »](visualization.qmd)
 :::
 :::
 
 ::: {.feature}
 ### Analysis of Compound Impact
-Publish collections of documents as a blog or full website. Create books and manuscripts in both print formats (PDF and MS Word) and online formats (HTML and ePub).
+We analyzed all data to better understand what drivers are involved in each hazard recorded in SHELDUS, as well as knowing how often the impacts result from a compound event.
 
 ::: {.learn-more}
-[Learn more »](docs/websites/)
+[Learn more »](visualization.qmd)
 :::
 :::
 

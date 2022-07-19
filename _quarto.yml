@@ -24,6 +24,8 @@ website:
         file: data-processing.qmd
       - text: "Analysis"
         file: analysis.qmd
+      - text: "Visualization"
+        file: visualization.qmd
       - text: "About"
         file: about.qmd
       # - text: "Team"
@@ -42,7 +44,7 @@ website:
       style: "docked"
       background: light
       contents:
-        - tutorials.qmd
+        - analysis.qmd
         - tutorial-1.qmd
         - tutorial-2.qmd
 
@@ -51,9 +53,9 @@ website:
         - data-processing.qmd
         # navigation items
 
-    - title: "Fundamentals"
+    - title: "Visualization"
       contents:
-        - fundamentals.qmd
+        - visualization.qmd
         # navigation items
 
     - title: "Reference"

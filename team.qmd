@@ -1,0 +1,45 @@
+---
+title: "Team"
+page-layout: custom
+# section-divs: false
+toc: false
+css: index.css
+editor: source
+---
+
+::: {.get-started .alt-background}
+
+This analysis was completed by the team of following people at the University of Central Florida:
+
+::: {.content-block}
+::: {.features}
+
+::: {.feature}
+### ![](https://www.javedali.net/author/avatar_hufffe226e957f1b2290d587dc7c95d8a4_871284_270x270_fill_lanczos_center_2.PNG)
+Javed Ali (Main Developer)
+
+:::
+
+::: {.feature}
+### ![](https://core-lab.weebly.com/uploads/3/7/8/9/37890981/published/ucf-47983015.jpg?1632540250)
+Thomas Wahl, PhD (Supervisor)
+
+:::
+
+::: {.feature}
+### ![](https://core-lab.weebly.com/uploads/3/7/8/9/37890981/published/pic-mm-rashid.jpg?1586935282)
+Md Mamunur Rashid, PhD
+
+:::
+
+::: {.feature}
+### ![](https://core-lab.weebly.com/uploads/3/7/8/9/37890981/published/foto-alexrodriguez-1-239x300.jpg?1651870386)
+Alejandra Enriquez, PhD
+
+:::
+
+:::
+:::
+:::
+
+

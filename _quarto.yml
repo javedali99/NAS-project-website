@@ -23,11 +23,11 @@ website:
       - text: "Data Collection & Processing"
         file: data-processing.qmd
       - text: "Analysis"
-        file: tutorials.qmd
+        file: analysis.qmd
       - text: "About"
         file: about.qmd
-      # - text: "References"
-      #   file: reference.qmd
+      # - text: "Team"
+      #   file: team.qmd
 
     right:
       - icon: twitter
@@ -38,7 +38,7 @@ website:
         aria-label: GitHub
 
   sidebar:
-    - title: "Tutorials"
+    - title: "Analysis"
       style: "docked"
       background: light
       contents:

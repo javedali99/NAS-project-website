@@ -2,8 +2,11 @@ project:
   type: website
 
 website:
+  site-url: "https://compound-extremes-analysis.netlify.app/"
+  # google-analytics: "UA-XXXXXXXX"
   page-navigation: true
   title: "Analysis of Compound Extreme Events"
+  opengraph: true
   twitter-card:
     image: "/images/henkdeboer_nl.png"
   repo-url: https://github.com/javedali99/NAS-project-website

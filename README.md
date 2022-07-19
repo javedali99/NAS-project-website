@@ -1,7 +1,9 @@
 
 
 <h1 style="font-weight:normal" align="center">
-:globe: NAS Project Website: Analysis of Compound Extreme Events and Thier Impacts 
+🌎 NAS Project Website 🌎
+
+Analysis of Compound Extreme Events and Thier Impacts 
 </h1>
 
 <div align="center">

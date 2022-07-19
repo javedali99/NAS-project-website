@@ -94,9 +94,10 @@
   }
   
   .hero-banner a[role="button"] {
-    margin-right: 17px;
+    margin-right: 17px;  
     margin-top: 0.6rem;
     margin-bottom: 1.6rem;
+    margin-left: 2rem;
   }
   
   

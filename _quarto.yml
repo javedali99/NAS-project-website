@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: "https://compound-extremes-analysis.netlify.app/"
-  google-analytics: "G-YCJ62DEBX9"
+  google-analytics: "UA-117675398-3"
   page-navigation: true
   title: "Analysis of Compound Extreme Events"
   opengraph: true

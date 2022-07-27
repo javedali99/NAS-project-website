@@ -2,58 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/team.html</loc>
-    <lastmod>2022-07-20T02:20:00.216Z</lastmod>
+    <lastmod>2022-07-26T21:22:06.711Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/analysis/sheldus-events-dates.html</loc>
-    <lastmod>2022-07-20T02:20:00.571Z</lastmod>
+    <lastmod>2022-07-26T21:22:07.059Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/analysis/raw-ts-creation.html</loc>
-    <lastmod>2022-07-20T02:20:00.870Z</lastmod>
+    <lastmod>2022-07-26T21:22:07.367Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/analysis/index.html</loc>
-    <lastmod>2022-07-20T02:20:01.138Z</lastmod>
+    <lastmod>2022-07-26T23:53:34.422Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/analysis/percentiles.html</loc>
-    <lastmod>2022-07-20T02:20:01.376Z</lastmod>
+    <lastmod>2022-07-26T21:22:07.892Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/analysis/sheldus-percentiles.html</loc>
-    <lastmod>2022-07-20T02:20:01.604Z</lastmod>
+    <lastmod>2022-07-26T21:22:08.127Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/results/index.html</loc>
-    <lastmod>2022-07-20T02:20:01.919Z</lastmod>
+    <lastmod>2022-07-26T23:53:36.026Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/results/heatmaps.html</loc>
-    <lastmod>2022-07-20T02:20:02.217Z</lastmod>
+    <lastmod>2022-07-26T21:22:08.733Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/results/mapping.html</loc>
-    <lastmod>2022-07-20T02:20:02.556Z</lastmod>
+    <lastmod>2022-07-26T21:22:09.013Z</lastmod>
+  </url>
+  <url>
+    <loc>https://compound-extremes-analysis.netlify.app/docs/data/final-data.html</loc>
+    <lastmod>2022-07-27T00:03:16.808Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/data/download-data.html</loc>
-    <lastmod>2022-07-20T02:20:02.844Z</lastmod>
+    <lastmod>2022-07-26T23:53:27.152Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/data/index.html</loc>
-    <lastmod>2022-07-20T02:20:03.157Z</lastmod>
+    <lastmod>2022-07-27T00:03:29.591Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/docs/data/processing-data.html</loc>
-    <lastmod>2022-07-20T02:20:03.444Z</lastmod>
+    <lastmod>2022-07-26T23:53:29.200Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/index.html</loc>
-    <lastmod>2022-07-20T02:20:03.826Z</lastmod>
+    <lastmod>2022-07-27T00:04:02.826Z</lastmod>
   </url>
   <url>
     <loc>https://compound-extremes-analysis.netlify.app/about.html</loc>
-    <lastmod>2022-07-20T02:20:04.205Z</lastmod>
+    <lastmod>2022-07-26T23:53:37.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://compound-extremes-analysis.netlify.app/docs/data/data-sheldus.html</loc>
+    <lastmod>2022-07-26T23:52:51.080Z</lastmod>
   </url>
 </urlset>

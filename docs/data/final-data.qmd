@@ -1,0 +1,28 @@
+
+---
+title: "Final Dataset"
+format: 
+  html: 
+    page-layout: full
+---
+
+
+
+
+```{ojs}
+//| echo: false
+//| panel: sidebar
+data = FileAttachment("sheldus data with climate vars v26.csv").csv({ typed: true })
+
+Inputs.table(data)
+
+viewof search = Inputs.search(data)
+```
+
+
+
+<br>
+
+::: {.hero-buttons}
+[Download Final Dataset](sheldus data with climate vars v26.xlsx){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+:::

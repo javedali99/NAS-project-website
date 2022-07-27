@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "docs/data/final-data.html",
+    "href": "docs/data/final-data.html",
+    "title": "Final Dataset",
+    "section": "",
+    "text": "Download Final Dataset"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Javed Ali",
@@ -12,5 +19,12 @@
     "title": "Javed Ali",
     "section": "References",
     "text": "References\n\nAli, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2021). Estimating Impact Relevant Thresholds of Multi-hazards in the US Southeast Coast. American Geophysical Union Fall Meeting 2021, New Orleans, LA. https://doi.org/10.1002/essoar.10508922.1\nAli, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). A Novel Approach for Assessing Compounding Effects of Weather and Climate Extremes. UCF Graduate Research Forum 2022, Orlando, FL.\nAli, J., Wahl, T., R. Enriquez, A., & Rashid, M. M. (2022). Assessing Compound Impacts of Natural Hazards in Miami-Dade County, Florida. 5th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazard (EVAN), Orlando, FL, USA."
+  },
+  {
+    "objectID": "docs/data/data-sheldus.html",
+    "href": "docs/data/data-sheldus.html",
+    "title": "Analysis of Compound Extreme Events",
+    "section": "",
+    "text": "import qgrid\nimport pandas as pd\nimport numpy as np\n\n\ndf = pd.read_csv('sheldus data with climate vars v26.csv')\n\n\nqgrid.show_grid(df)"
   }
 ]

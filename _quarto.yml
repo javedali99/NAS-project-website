@@ -24,7 +24,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Data Processing"
+      - text: "Data"
         href: docs/data/index.qmd
       - text: "Analysis"
         href: docs/analysis/index.qmd
@@ -63,7 +63,7 @@ website:
 
 
     - id: data
-      title: "Data Processing"
+      title: "Data"
       style: "floating"
       collapse-level: 3
       align: left
@@ -73,6 +73,8 @@ website:
           href: docs/data/download-data.qmd
         - text: "Data processing"
           href: docs/data/processing-data.qmd
+        # - text: "Final Dataset"
+        #   href: docs/data/final-data.qmd
         # navigation items
 
     - id: data-viz

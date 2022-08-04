@@ -43,56 +43,56 @@ website:
         href: https://github.com/javedali99
         aria-label: GitHub
 
-  sidebar:
-    - id: analysis
-      title: "Analysis"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      # background: light
-      contents:
-        - docs/analysis/index.qmd
-        - text: "Dates of Events"
-          href: docs/analysis/sheldus-events-dates.qmd
-        - text: "Individual Time Series"
-          href: docs/analysis/raw-ts-creation.qmd
-        - text: "Percentile Calculation"
-          href: docs/analysis/percentiles.qmd
-        - text: "Percentiles with SHELDUS Dates"
-          href: docs/analysis/sheldus-percentiles.qmd
+  # sidebar:
+  #   - id: analysis
+  #     title: "Analysis"
+  #     style: "floating"
+  #     collapse-level: 3
+  #     align: left
+  #     # background: light
+  #     contents:
+  #       - docs/analysis/index.qmd
+  #       - text: "Dates of Events"
+  #         href: docs/analysis/sheldus-events-dates.qmd
+  #       - text: "Individual Time Series"
+  #         href: docs/analysis/raw-ts-creation.qmd
+  #       - text: "Percentile Calculation"
+  #         href: docs/analysis/percentiles.qmd
+  #       - text: "Percentiles with SHELDUS Dates"
+  #         href: docs/analysis/sheldus-percentiles.qmd
 
 
-    - id: data
-      title: "Data"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - docs/data/index.qmd
-        - text: "Data collection"
-          href: docs/data/download-data.qmd
-        - text: "Data processing"
-          href: docs/data/processing-data.qmd
-        # - text: "Final Dataset"
-        #   href: docs/data/final-data.qmd
+  #   - id: data
+  #     title: "Data"
+  #     style: "floating"
+  #     collapse-level: 3
+  #     align: left
+  #     contents:
+  #       - docs/data/index.qmd
+  #       - text: "Data collection"
+  #         href: docs/data/download-data.qmd
+  #       - text: "Data processing"
+  #         href: docs/data/processing-data.qmd
+  #       # - text: "Final Dataset"
+  #       #   href: docs/data/final-data.qmd
+  #       # navigation items
+
+  #   - id: data-viz
+  #     title: "Results"
+  #     style: "floating"
+  #     collapse-level: 3
+  #     align: left
+  #     contents:
+  #       - docs/results/index.qmd
+  #       - text: "Heatmaps"
+  #         href: docs/results/heatmaps.qmd
+  #       - text: "Mapping"
+  #         href: docs/results/mapping.qmd
         # navigation items
 
-    - id: data-viz
-      title: "Results"
-      style: "floating"
-      collapse-level: 3
-      align: left
-      contents:
-        - docs/results/index.qmd
-        - text: "Heatmaps"
-          href: docs/results/heatmaps.qmd
-        - text: "Mapping"
-          href: docs/results/mapping.qmd
-        # navigation items
-
-    - title: "Reference"
-      contents:
-        - reference.qmd
+    # - title: "Reference"
+    #   contents:
+    #     - reference.qmd
         # navigation items
       
 
